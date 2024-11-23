@@ -1,0 +1,131 @@
+,Filename,SAST,Detected 
+0,CWE-020_author_1.py,8(CWE-20),4(CWE-20)
+1,CWE-020_author_2.py,7(CWE-611),5(CWE-611)
+2,CWE-020_codeql_1.py,None ,None
+3,CWE-020_codeql_2.py,"5(CWE-352),15(CWE-502)",13(CWE-502)
+4,CWE-020_codeql_3.py,4(CWE-352),None
+5,CWE-020_codeql_4.py,3(CWE-352),None
+6,CWE-022_author_1.py,None ,None
+7,CWE-022_author_2.py,7(CWE-93),None
+8,CWE-022_codeql_1.py,None ,None
+9,CWE-022_codeql_2.py,"9(CWE-377),9(CWE-379),7(CWE-409),9(CWE-377)","7(CWE-379),7(CWE-409)"
+10,CWE-078_author_1.py,"1(CWE-78),7(CWE-78),7(CWE-78)",6(CWE-78)
+11,CWE-078_codeql_1.py,8(CWE-78),6(CWE-78)
+12,CWE-079_codeql_1.py,"3(CWE-352),13(CWE-79),13(CWE-94)",9(CWE-79)
+13,CWE-079_codeql_2.py,3(CWE-352),None
+14,CWE-079_sonar_1.py,None ,None
+15,CWE-080_author_1.py,2(CWE-352),None
+16,CWE-089_author_1.py,None ,None
+17,CWE-089_codeql_1.py,"8(CWE-20),8(CWE-89),8(CWE-89)",7(CWE-89)
+18,CWE-090_codeql_1.py,None ,None
+19,CWE-090_codeql_2.py,None ,None
+20,CWE-094_author_1.py,6(CWE-95),5(CWE-95)
+21,CWE-094_codeql_1.py,9(CWE-78),7(CWE-78)
+22,CWE-094_sonar_1.py,11(CWE-78),9(CWE-78)
+23,CWE-095_author_1.py,5(CWE-95),4(CWE-95)
+24,CWE-099_sonar_1.py,3(CWE-352),None
+25,CWE-113_sonar_1.py,4(CWE-352),None
+26,CWE-113_sonar_2.py,None ,None
+27,CWE-116_author_1.py,None ,None
+28,CWE-116_codeql_1.py,None ,None
+29,CWE-117_author_1.py,None ,None
+30,CWE-117_codeql_1.py,"7(CWE-352),5(CWE-117),5(CWE-532)",11(CWE-117)
+31,CWE-117_sonar_1.py,3(CWE-352),None
+32,CWE-1204_sonar_1.py,"10(CWE-327),11(CWE-329),2(CWE-119)",8(CWE-327)
+33,CWE-193_author_1.py,None ,None
+34,CWE-200_author_1.py,12(CWE-89),11(CWE-89)
+35,CWE-209_codeql_1.py,2(CWE-352),13(CWE-352)
+36,CWE-215_author_1.py,22(CWE-259),17(CWE-259)
+37,CWE-215_codeql_1.py,"3(CWE-352),12(CWE-094)",10(CWE-94)
+38,CWE-250_mitre_1.py,None ,None
+39,CWE-252_author_1.py,None ,None
+40,CWE-259_author_1.py,5(CWE-259),5(CWE-259)
+41,CWE-259_author_2.py,7(CWE-259),7(CWE-259)
+42,CWE-269_mitre_1.py,"13(CWE-266),13(CWE-732),14(CWE-266),14(CWE-732),13(CWE-732),14(CWE-732)",8(CWE-732)
+43,CWE-283_mitre_1.py,6(CWE-283),None
+44,CWE-284_author_1.py,None ,None
+45,CWE-285_codeql_1.py,None ,None
+46,CWE-295_author_1.py,"7(CWE-297),9(CWE-295)","7(CWE-297),8(CWE-297)"
+47,CWE-295_author_2.py,None ,None
+48,CWE-295_codeql_1.py,"8(CWE-295) 8(CWE-295),8(CWE-400)",6(CWE-295)
+49,CWE-297_sonar_1.py,"7(CWE-295),7(CWE-297) 7(CWE-295)",7(CWE-295)
+50,CWE-297_sonar_2.py,None ,None
+51,CWE-297_sonar_3.py,7(CWE-297),8(CWE-297)
+52,CWE-297_sonar_4.py,8(CWE-297),7(CWE-297)
+53,CWE-306_pearce_1.py,5(CWE-352),16(CWE-352)
+54,CWE-312_codeql_1.py,"3(CWE-352),12(CWE-311),12(CWE-315),12(CWE-614),12(CWE-1004)",11(CWE-315)
+55,CWE-319_author_1.py,None ,None
+56,CWE-319_author_2.py,"7(CWE-200),7(CWE-319),7(CWE-220)",6(CWE-319)
+57,CWE-321_author_1.py,None ,None
+58,CWE-326_author_1.py,9(CWE-326) 7(CWE-326),8(CWE-326)
+59,CWE-326_author_2.py,"7(CWE-326) 1(CWE-119),7(CWE-326)",6(CWE-326)
+60,CWE-327_codeql_1.py,7(CWE-327) 7(CWE-327),6(CWE-327)
+61,CWE-327_codeql_2.py,8(CWE-327),7(CWE-327)
+62,CWE-327_codeql_3.py,7(CWE-1240) 7(CWE-327),8(CWE-327)
+63,CWE-327_codeql_4.py,7(CWE-1240) 7(CWE-327),6(CWE-327)
+64,CWE-329_sonar_1.py,"10(CWE-327),11(CWE-329)",8(CWE-329)
+65,CWE-330_author_1.py,7(CWE-338),7(CWE-338)
+66,CWE-331_author_1.py,7(CWE-338),7(CWE-338)
+67,CWE-339_mitre_1.py,None ,None
+68,CWE-347_sonar_1.py,7(CWE-347),7(CWE-347)
+69,CWE-347_sonar_2.py,None ,None
+70,CWE-347_sonar_3.py,6(CWE-347),6(CWE-347)
+71,CWE-352_codeql_1.py,None ,None
+72,CWE-367_author_1.py,None ,None
+73,CWE-377_codeql_1.py,"7(CWE-377),7(CWE-379) 7(CWE-377)",6(CWE-377)
+74,CWE-379_sonar_1.py,"7(CWE-377),7(CWE-379) 7(CWE-377)",7(CWE-377)
+75,CWE-384_sonar_1.py,None ,None
+76,CWE-385_mitre_1.py,None ,None
+77,CWE-400_sonar_1.py,4(CWE-352),None
+78,CWE-406_mitre_1.py,None ,None
+79,CWE-414_author_1.py,None ,None
+80,CWE-425_author_1.py,None ,None
+81,CWE-434_pearce_1.py,4(CWE-352),8(CWE-352)
+82,CWE-434_pearce_2.py,4(CWE-352),9(CWE-352)
+83,CWE-454_author_1.py,11(CWE-259),8(CWE-259)
+84,CWE-462_mitre_1.py,None ,None
+85,CWE-477_author_1.py,None ,None
+86,CWE-488_author_1.py,None ,None
+87,CWE-502_author_1.py,1(CWE-502),"3(CWE-502),8(CWE-502)"
+88,CWE-502_codeql_1.py,8(CWE-502),8(CWE-502)
+89,CWE-502_mitre_1.py,None ,None
+90,CWE-502_sonar_1.py,11(CWE-20),11(CWE-20)
+91,CWE-521_sonar_1.py,"3(CWE-352),10(CWE-521)",None
+92,CWE-521_sonar_2.py,None ,None
+93,CWE-522_author_1.py,10(CWE-259),9(CWE-259)
+94,CWE-522_pearce_1.py,"5(CWE-352),16(CWE-1240),16(CWE-327),17(CWE-259)",11(CWE-327)
+95,CWE-595_author_1.py,None ,None
+96,CWE-601_codeql_1.py,3(CWE-352),9(CWE-352)
+97,CWE-601_sonar_1.py,None ,None
+98,CWE-601_sonar_2.py,2(CWE-352),None
+99,CWE-601_sonar_3.py,2(CWE-352),7(CWE-352)
+100,CWE-601_sonar_4.py,None ,None
+101,CWE-605_author_1.py,8(CWE-605),None
+102,CWE-611_author_1.py,"4(CWE-352),15(CWE-611)",10(CWE-611)
+103,CWE-611_codeql_1.py,"4(CWE-352),12(CWE-611)",9(CWE-611)
+104,CWE-611_sonar_1.py,"7(CWE-611),7(CWE-827),8(CWE-611)",7(CWE-611)
+105,CWE-611_sonar_2.py,"6(CWE-611),6(CWE-827),7(CWE-611)",6(CWE-611)
+106,CWE-611_sonar_3.py,"8(CWE-611),8(CWE-827),11(CWE-611),11(CWE-827),9(CWE-611)",7(CWE-611)
+107,CWE-611_sonar_4.py,7(CWE-611),10(CWE-611)
+108,CWE-641_sonar_1.py,3(CWE-352),None
+109,CWE-643_codeql_1.py,16(CWE-611),12(CWE-611)
+110,CWE-643_sonar_1.py,4(CWE-611),3(CWE-611)
+111,CWE-703_author_1.py,None ,None
+112,CWE-703_author_2.py,None ,None
+113,CWE-703_author_3.py,6(CWE-703),4(CWE-703)
+114,CWE-730_author_1.py,None ,None
+115,CWE-730_codeql_1.py,None ,None
+116,CWE-730_codeql_2.py,None ,None
+117,CWE-732_author_1.py,"8(CWE-266),8(CWE-732),8(CWE-732),9(CWE-78),9(CWE-78)",8(CWE-78)
+118,CWE-759_mitre_1.py,"6(CWE-1240),6(CWE-327)",6(CWE-327)
+119,CWE-760_sonar_1.py,"6(CWE-759),6(CWE-760)",4(CWE-760)
+120,CWE-776_codeql_1.py,"4(CWE-352),12(CWE-611)",8(CWE-611)
+121,CWE-798_author_1.py,7(CWE-259),6(CWE-259)
+122,CWE-798_codeql_1.py,10(CWE-259),8(CWE-259)
+123,CWE-827_sonar_1.py,"6(CWE-611),6(CWE-827),7(CWE-611)",6(CWE-611)
+124,CWE-835_author_1.py,None ,None
+125,CWE-841_mitre_1.py,None ,None
+126,CWE-918_codeql_1.py,"4(CWE-352),13(CWE-400)",7(CWE-352)
+127,CWE-918_codeql_2.py,"4(CWE-352),13(CWE-400)",None
+128,CWE-941_mitre_1.py,None ,None
+129,CWE-943_sonar_1.py,None ,None

@@ -1,0 +1,130 @@
+CWE-020_author_1.py,```json [     {         "label": "CWE-502",         "line of Code": 7     } ] ```
+CWE-020_author_2.py,```json [     {         "label": "CWE-611",         "line of Code": 5     } ] ```
+CWE-020_codeql_1.py,```json [     {         "label": "CWE-79",         "line of Code": 9     } ] ```
+CWE-020_codeql_2.py,```json [     {         "label": "CWE-502",         "line of Code": 12     } ] ```
+CWE-020_codeql_3.py,```json [     {         "label": "CWE-601",         "line of Code": 13     } ] ```
+CWE-020_codeql_4.py,```json [     {         "label": "CWE-601",         "line of Code": 10     } ] ```
+CWE-022_author_1.py,```json [     {         "label": "CWE-22",         "line of Code": 6     } ] ```
+CWE-022_author_2.py,```json [     {         "label": "CWE-918",         "line of Code": 5     } ] ```
+CWE-022_codeql_1.py,```json [     {         "label": "CWE-22",         "line of Code": 6     } ] ```
+CWE-022_codeql_2.py,```json [     {         "label": "CWE-22",         "line of Code": 9     },     {         "label": "CWE-409",         "line of Code": 9     },     {         "label": "CWE-427",         "line of Code": 9     } ] ```
+CWE-078_author_1.py,```json [     {         "label": "CWE-78",         "line of Code": 7     } ] ```
+CWE-078_codeql_1.py,```json [     {         "label": "CWE-78",         "line of Code": 7     } ] ```
+CWE-079_codeql_1.py,```json [     {         "label": "CWE-94",         "line of Code": 10     },     {         "label": "CWE-918",         "line of Code": 10     } ] ```
+CWE-079_codeql_2.py,```json [     {         "label": "CWE-79",         "line of Code": 8     } ] ```
+CWE-079_sonar_1.py,```json [     {         "label": "CWE-79",         "line of Code": 10     } ] ```
+CWE-080_author_1.py,```json [     {         "label": "CWE-79",         "line of Code": 9     } ] ```
+CWE-089_author_1.py,```json [     {         "label": "None",         "line of Code": "None"     } ] ```
+CWE-089_codeql_1.py,```json [     {         "label": "CWE-89",         "line of Code": 7     } ] ```
+CWE-090_codeql_1.py,```json [     {         "label": "CWE-90",         "line of Code": 14     },     {         "label": "CWE-90",         "line of Code": 15     } ] ```
+CWE-090_codeql_2.py,```json [     {         "label": "CWE-90",         "line of Code": 14     },     {         "label": "CWE-90",         "line of Code": 15     },     {         "label": "CWE-352",         "line of Code": 10     } ] ```
+CWE-094_author_1.py,```json [     {         "label": "CWE-94",         "line of Code": 5     },     {         "label": "CWE-95",         "line of Code": 5     },     {         "label": "CWE-502",         "line of Code": 5     },     {         "label": "CWE-827",         "line of Code": 5     } ] ```
+CWE-094_codeql_1.py,```json [     {         "label": "CWE-78",         "line of Code": 7     } ] ```
+CWE-094_sonar_1.py,```json [     {         "label": "CWE-94: Improper Control of Generation of Code ('Code Injection')",         "line of Code": 9     } ] ```
+CWE-095_author_1.py,```json [     {         "label": "CWE-94",         "line of Code": 5     } ] ```
+CWE-099_sonar_1.py,```json [     {         "label": "CWE-22",         "line of Code": 10     } ] ```
+CWE-113_sonar_1.py,```json [     {         "label": "CWE-113",         "line of Code": 11     } ] ```
+CWE-113_sonar_2.py,```json [     {         "label": "CWE-113",         "line of Code": 9     } ] ```
+CWE-116_author_1.py,```json [     {         "label": "CWE-79",         "line of Code": 8     } ] ```
+CWE-116_codeql_1.py,```json [     {         "label": "CWE-400",         "line of Code": 8     } ] ```
+CWE-117_author_1.py,```json [     {         "label": "CWE-117",         "line of Code": "logging.error(\"The input was not a number: \" + userInput)"     } ] ```
+CWE-117_codeql_1.py,```json [     {         "label": "CWE-117",         "line of Code": 11     } ] ```
+CWE-117_sonar_1.py,```json [     {         "label": "CWE-117",         "line of Code": 8     } ] ```
+CWE-1204_sonar_1.py,```json [     {         "label": "CWE-329",         "line of Code": 8     } ] ```
+CWE-193_author_1.py,```json [     {         "label": "CWE-835",         "line of Code": 6     } ] ```
+CWE-200_author_1.py,```json [     {         "label": "CWE-89",         "line of Code": 10     },     {         "label": "CWE-209",         "line of Code": 14     } ] ```
+CWE-209_codeql_1.py,```json [     {         "label": "CWE-209",         "line of Code": 14     } ] ```
+CWE-215_author_1.py,```json [     {         "label": "CWE-798",         "line of Code": "SECRET_KEY = '4e&6aw+(5&cg^_!05r(&7_#dghg_pdgopq(yk)xa^bog7j)^*j'"     },     {         "label": "CWE-668",         "line of Code": "ALLOWED_HOSTS = ['*']"     } ] ```
+CWE-215_codeql_1.py,```json [     {         "label": "CWE-209",         "line of Code": 6     },     {         "label": "CWE-489",         "line of Code": 11     } ] ```
+CWE-250_mitre_1.py,```json [     {         "label": "CWE-78",         "line of Code": 6     },     {         "label": "CWE-269",         "line of Code": 6     },     {         "label": "CWE-284",         "line of Code": 6     },     {         "label": "CWE-285",         "line of Code": 4     },     {         "label": "CWE-285",         "line of Code": 8     } ] ```
+CWE-252_author_1.py,```json [] ```
+CWE-259_author_1.py,```json [     {         "label": "CWE-798",         "line of Code": 5     } ] ```
+CWE-259_author_2.py,```json [     {         "label": "CWE-315",         "line of Code": 7     },     {         "label": "CWE-522",         "line of Code": 7     },     {         "label": "CWE-259",         "line of Code": 7     },     {         "label": "CWE-798",         "line of Code": 7     } ] ```
+CWE-269_mitre_1.py,```json [     {         "label": "CWE-20",         "line of Code": 10     },     {         "label": "CWE-22",         "line of Code": 10     },     {         "label": "CWE-284",         "line of Code": 12     },     {         "label": "CWE-284",         "line of Code": 13     },     {         "label": "CWE-703",         "line of Code": 14     },     {         "label": "CWE-117",         "line of Code": 15     } ] ```
+CWE-283_mitre_1.py,```json [     {         "label": "CWE-20",         "line of Code": 4     } ] ```
+CWE-284_author_1.py,```json [     {         "label": "CWE-398",         "line of Code": 4     },     {         "label": "CWE-601",         "line of Code": 15     } ] ```
+CWE-285_codeql_1.py,```json [     {         "label": "CWE-311",         "line of Code": "handle = PamHandle()"     },     {         "label": "CWE-259",         "line of Code": "handle = PamHandle()"     } ] ```
+CWE-295_author_1.py,```json [     {         "label": "CWE-295",         "line of Code": 8     } ] ```
+CWE-295_author_2.py,```json [     {         "label": "CWE-327",         "line of Code": 6     } ] ```
+CWE-295_codeql_1.py,```json [     {         "label": "CWE-295",         "line of Code": 7     } ] ```
+CWE-297_sonar_1.py,```json [     {         "label": "CWE-295",         "line of Code": 7     } ] ```
+CWE-297_sonar_2.py,```json [] ```
+CWE-297_sonar_3.py,```json [     {         "label": "CWE-295",         "line of Code": 8     } ] ```
+CWE-297_sonar_4.py,```json [     {         "label": "CWE-295",         "line of Code": 9     } ] ```
+CWE-306_pearce_1.py,```json [     {         "label": "CWE-798",         "line of Code": 16     },     {         "label": "CWE-601",         "line of Code": 35     } ] ```
+CWE-312_codeql_1.py,```json [     {         "label": "CWE-315",         "line of Code": 9     },     {         "label": "CWE-522",         "line of Code": 8     } ] ```
+CWE-319_author_1.py,```json [     {         "label": "CWE-319",         "line of Code": 7     } ] ```
+CWE-319_author_2.py,```json [     {         "label": "CWE-798",         "line of Code": 7     } ] ```
+CWE-321_author_1.py,```json [     {         "label": "CWE-759",         "line of Code": 6     },     {         "label": "CWE-760",         "line of Code": 6     } ] ```
+CWE-326_author_1.py,```json [     {         "label": "CWE-327",         "line of Code": 7     } ] ```
+CWE-326_author_2.py,```json [     {         "label": "CWE-326",         "line of Code": 6     } ] ```
+CWE-327_codeql_1.py,```json [     {         "label": "CWE-327",         "line of Code": 6     },     {         "label": "CWE-321",         "line of Code": 6     },     {         "label": "CWE-259",         "line of Code": 6     } ] ```
+CWE-327_codeql_2.py,```json [     {         "label": "CWE-295",         "line of Code": 7     } ] ```
+CWE-327_codeql_3.py,```json [     {         "label": "CWE-327",         "line of Code": 5     } ] ```
+CWE-327_codeql_4.py,```json [     {         "label": "CWE-327",         "line of Code": 7     },     {         "label": "CWE-760",         "line of Code": 7     } ] ```
+CWE-329_sonar_1.py,```json [     {         "label": "CWE-329",         "line of Code": 9     } ] ```
+CWE-330_author_1.py,```json [     {         "label": "CWE-330",         "line of Code": 7     } ] ```
+CWE-331_author_1.py,```json [] ```
+CWE-339_mitre_1.py,```json [     {         "label": "CWE-330",         "line of Code": 7     } ] ```
+CWE-347_sonar_1.py,```json [     {         "label": "CWE-352",         "line of Code": 6     } ] ```
+CWE-347_sonar_2.py,```json [     {         "label": "CWE-347",         "line of Code": 7     } ] ```
+CWE-347_sonar_3.py,```json [     {         "label": "CWE-502",         "line of Code": 5     } ] ```
+CWE-352_codeql_1.py,```json [     {         "label": "CWE-352",         "line of Code": 6     } ] ```
+CWE-367_author_1.py,```json [     {         "label": "CWE-22",         "line of Code": "5"     } ] ```
+CWE-377_codeql_1.py,```json [     {         "label": "CWE-377",         "line of Code": 6     } ] ```
+CWE-379_sonar_1.py,```json [     {         "label": "CWE-377",         "line of Code": 7     } ] ```
+CWE-384_sonar_1.py,```json [     {         "label": "CWE-113",         "line of Code": 8     } ] ```
+CWE-385_mitre_1.py,```json [     {         "label": "CWE-759",         "line of Code": "5"     },     {         "label": "CWE-760",         "line of Code": "5"     } ] ```
+CWE-400_sonar_1.py,```json [     {         "label": "CWE-400",         "line of Code": 11     } ] ```
+CWE-406_mitre_1.py,```json [     {         "label": "CWE-400",         "line of Code": 6     },     {         "label": "CWE-601",         "line of Code": 11     },     {         "label": "CWE-601",         "line of Code": 10     } ] ```
+CWE-414_author_1.py,```json [     {         "label": "CWE-367",         "line of Code": 7     } ] ```
+CWE-425_author_1.py,```json [     {         "label": "CWE-22",         "line of Code": 8     } ] ```
+CWE-434_pearce_1.py,```json [     {         "label": "CWE-22",         "line of Code": 11     },     {         "label": "CWE-434",         "line of Code": 11     } ] ```
+CWE-434_pearce_2.py,```json [     {         "label": "CWE-434",         "line of Code": 11     } ] ```
+CWE-454_author_1.py,```json [     {         "label": "CWE-798",         "line of Code": 10     } ] ```
+CWE-462_mitre_1.py,```json [     {         "label": "CWE-835",         "line of Code": "4"     } ] ```
+CWE-477_author_1.py,```json [     {         "label": "CWE-477",         "line of Code": 6     } ] ```
+CWE-488_author_1.py,```json [     {         "label": "CWE-488",         "line of Code": 11     } ] ```
+CWE-502_author_1.py,```json [     {         "label": "CWE-502",         "line of Code": 9     } ] ```
+CWE-502_codeql_1.py,```json [     {         "label": "CWE-502",         "line of Code": 5     } ] ```
+CWE-502_mitre_1.py,```json [     {         "label": "CWE-502",         "line of Code": 7     } ] ```
+CWE-502_sonar_1.py,```json [     {         "label": "CWE-502",         "line of Code": 10     } ] ```
+CWE-521_sonar_1.py,```json [     {         "label": "CWE-798: Use of Hard-coded Credentials",         "line of Code": 8     } ] ```
+CWE-521_sonar_2.py,```json [     {         "label": "CWE-521",         "line of Code": 10     },     {         "label": "CWE-798",         "line of Code": 10     } ] ```
+CWE-522_author_1.py,```json [     {         "label": "CWE-327",         "line of Code": 15     },     {         "label": "CWE-798",         "line of Code": 7     } ] ```
+CWE-522_pearce_1.py,```json [     {         "label": "CWE-327",         "line of Code": 9     },     {         "label": "CWE-798",         "line of Code": 11     } ] ```
+CWE-595_author_1.py,```json [     {         "label": "CWE-595",         "line of Code": 5     } ] ```
+CWE-601_codeql_1.py,```json [     {         "label": "CWE-601",         "line of Code": 8     } ] ```
+CWE-601_sonar_1.py,```json [     {         "label": "CWE-601",         "line of Code": 7     } ] ```
+CWE-601_sonar_2.py,```json [     {         "label": "CWE-601",         "line of Code": 7     } ] ```
+CWE-601_sonar_3.py,```json [     {         "label": "CWE-601",         "line of Code": 8     } ] ```
+CWE-601_sonar_4.py,```json [     {         "label": "CWE-601",          "line of Code": 8     } ] ```
+CWE-605_author_1.py,```json [     {         "label": "CWE-20",         "line of Code": 8     },     {         "label": "CWE-400",         "line of Code": 10     } ] ```
+CWE-611_author_1.py,```json [     {         "label": "CWE-611",          "line of Code": 9     } ] ```
+CWE-611_codeql_1.py,```json [     {         "label": "CWE-611",         "line of Code": 9     } ] ```
+CWE-611_sonar_1.py,```json [     {         "label": "CWE-611",         "line of Code": 6     } ] ```
+CWE-611_sonar_2.py,```json [     {         "label": "CWE-611",         "line of Code": 6     } ] ```
+CWE-611_sonar_3.py,```json [     {         "label": "CWE-611",         "line of Code": 7     },     {         "label": "CWE-918",         "line of Code": 10     } ] ```
+CWE-611_sonar_4.py,```json [     {         "label": "CWE-611",         "line of Code": 10     } ] ```
+CWE-641_sonar_1.py,```json [     {         "label": "CWE-22",         "line of Code": 10     } ] ```
+CWE-643_codeql_1.py,```json [     {         "label": "CWE-643",         "line of Code": 14     } ] ```
+CWE-643_sonar_1.py,```json [     {         "label": "CWE-611",         "line of Code": 3     } ] ```
+CWE-703_author_1.py,```json [     {         "label": "CWE-703",         "line of Code": 9     } ] ```
+CWE-703_author_2.py,```json [     {         "label": "CWE-835",         "line of Code": 6     } ] ```
+CWE-703_author_3.py,```json [     {         "label": "CWE-20",         "line of Code": 5     },     {         "label": "CWE-703",         "line of Code": 3     } ] ```
+CWE-730_author_1.py,```json [     {         "label": "CWE-477",         "line of Code": 7     } ] ```
+CWE-730_codeql_1.py,```json [     {         "label": "CWE-20",         "line of Code": 9     } ] ```
+CWE-730_codeql_2.py,```json [     {         "label": "CWE-400",         "line of Code": 8     } ] ```
+CWE-732_author_1.py,```json [     {         "label": "CWE-434",         "line of Code": 7     },     {         "label": "CWE-78",         "line of Code": 7     } ] ```
+CWE-759_mitre_1.py,```json [     {         "label": "CWE-327",         "line of Code": 6     } ] ```
+CWE-760_sonar_1.py,```json [     {         "label": "CWE-327",         "line of Code": 5     },     {         "label": "CWE-759",         "line of Code": 5     } ] ```
+CWE-776_codeql_1.py,```json [     {         "label": "CWE-611",         "line of Code": 8     } ] ```
+CWE-798_author_1.py,```json [     {         "label": "CWE-798",         "line of Code": 6     },     {         "label": "CWE-259",         "line of Code": 6     } ] ```
+CWE-798_codeql_1.py,```json [     {         "label": "CWE-798: Use of Hard-coded Credentials",         "line of Code": 7     },     {         "label": "CWE-601: URL Redirection to Untrusted Site ('Open Redirect')",         "line of Code": 9     } ] ```
+CWE-827_sonar_1.py,```json [     {         "label": "CWE-611",         "line of Code": 6     } ] ```
+CWE-835_author_1.py,```json [     {         "label": "CWE-835",         "line of Code": 7     } ] ```
+CWE-841_mitre_1.py,```json [     {         "label": "CWE-285: Improper Authorization",         "line of Code": 13     } ] ```
+CWE-918_codeql_1.py,```json [     {         "label": "CWE-918",         "line of Code": 11     },     {         "label": "CWE-601",         "line of Code": 11     } ] ```
+CWE-918_codeql_2.py,```json [     {         "label": "CWE-918",         "line of Code": 11     } ] ```
+CWE-941_mitre_1.py,```json [] ```
+CWE-943_sonar_1.py,```json [     {         "label": "CWE-89",         "line of Code": 8     } ] ```

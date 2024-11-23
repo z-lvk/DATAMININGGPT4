@@ -1,0 +1,93 @@
+filename,response
+django_XSS.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""5""
+    }
+]
+```"
+ensure_saved_scope.py,"```json
+[
+    {
+        ""label"": ""CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')"",
+        ""line of Code"": 17
+    }
+]
+```"
+inter_command_injection.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""13""
+    },
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""22""
+    },
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""30""
+    }
+]
+```"
+inter_command_injection_2.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""subprocess.call(command, shell=True)""
+    },
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""subprocess.call('echo Menu: > menu.txt', shell=True)""
+    }
+]
+```"
+list_append.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": 10
+    }
+]
+```"
+multi_chain.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""subprocess.call(ben, shell=True)""
+    }
+]
+```"
+render_ids.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+tainted_arg_normal_function.py,"```json
+[
+    {
+        ""label"": ""CWE-78"",
+        ""line of Code"": ""16""
+    }
+]
+```"
+XSS_assign_to_other_var.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+yield.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": 13
+    }
+]
+```"

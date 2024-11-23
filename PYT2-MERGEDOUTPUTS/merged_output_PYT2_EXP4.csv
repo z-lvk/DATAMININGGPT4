@@ -1,0 +1,11 @@
+,Filename,Mr. Chekideh,Detected 
+0,django_XSS.py,"4(CWE-79),5(CWE-79)",5(CWE-79)
+1,ensure_saved_scope.py,25(CWE-489),17(CWE-22)
+2,inter_command_injection_2.py,"19(CWE-78),21(CWE-78),22(CWE-78),39(CWE-489)","22(CWE-78),31(CWE-78)"
+3,inter_command_injection.py,"14(CWE-78),15(CWE-78),38(CWE-489)","14(CWE-78),22(CWE-78),30(CWE-78)"
+4,list_append.py,"7(CWE-78),9(CWE-78),10(CWE-78),11(CWE-78)",10(CWE-78)
+5,multi_chain.py,"14(CWE-78),16(CWE-78)",16(CWE-78)
+6,render_ids.py,"10(CWE-79),12(CWE-79),17(CWE-489)",10(CWE-79)
+7,tainted_arg_normal_function.py,"12(CWE-78),14(CWE-78),17(CWE-78)",17(CWE-78)
+8,XSS_assign_to_other_var.py,"6(CWE-79),11(CWE-79),15(CWE-489)",9(CWE-79)
+9,yield.py,"8(CWE-78),9(CWE-78),10(CWE-78),15(CWE-78),16(CWE-78),17(CWE-78),21(CWE-489)",13(CWE-78)

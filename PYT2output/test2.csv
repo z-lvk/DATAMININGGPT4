@@ -1,0 +1,10 @@
+django_XSS.py,```json [     {         "label": "CWE-79",         "line of Code": "5"     } ] ```
+ensure_saved_scope.py,```json [     {         "label": "CWE-377",         "line of Code": 14     },     {         "label": "CWE-22",         "line of Code": 14     },     {         "label": "CWE-434",         "line of Code": 14     } ] ```
+inter_command_injection.py,```json [     {         "label": "CWE-78",         "line of Code": 13     },     {         "label": "CWE-78",         "line of Code": 20     },     {         "label": "CWE-78",         "line of Code": 30     } ] ```
+inter_command_injection_2.py,```json [     {         "label": "CWE-78",         "line of Code": 17     },     {         "label": "CWE-78",         "line of Code": 26     } ] ```
+list_append.py,```json [     {         "label": "CWE-78",         "line of Code": 10     } ] ```
+multi_chain.py,```json [     {         "label": "CWE-78",         "line of Code": 13     } ] ```
+render_ids.py,```json [     {         "label": "CWE-79",         "line of Code": 9     } ] ```
+tainted_arg_normal_function.py,```json [     {         "label": "CWE-78",         "line of Code": 11     },     {         "label": "CWE-434",         "line of Code": 11     } ] ```
+XSS_assign_to_other_var.py,```json [     {         "label": "CWE-79",         "line of Code": 8     } ] ```
+yield.py,```json [     {         "label": "CWE-78",         "line of Code": 13     } ] ```

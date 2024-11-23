@@ -1,0 +1,11 @@
+Unnamed: 0,Filename,Mr. Chekideh,Detected
+0,django_XSS.py,"4,5",5
+1,ensure_saved_scope.py,25,20
+2,inter_command_injection_2.py,"19,21,22,39","22,31"
+3,inter_command_injection.py,"14,15,38","15,30"
+4,list_append.py,"7,9,10,11",13
+5,multi_chain.py,"14,16",16
+6,render_ids.py,"10,12,17",12
+7,tainted_arg_normal_function.py,"12,14,17","12,14,17"
+8,XSS_assign_to_other_var.py,"6,11,15",11
+9,yield.py,"8,9,10,15,16,17,21",15

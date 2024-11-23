@@ -1,0 +1,1143 @@
+filename,response
+CWE-020_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-20: Improper Input Validation"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-502: Deserialization of Untrusted Data"",
+        ""line of Code"": ""5""
+    }
+]
+```"
+CWE-020_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-20"",
+        ""line of Code"": ""5""
+    },
+    {
+        ""label"": ""CWE-776"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-020_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": 8
+    }
+]
+```"
+CWE-020_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-502: Deserialization of Untrusted Data"",
+        ""line of Code"": 13
+    }
+]
+```"
+CWE-020_codeql_3.py,"```json
+[
+    {
+        ""label"": ""CWE-601"",
+        ""line of Code"": ""13""
+    }
+]
+```"
+CWE-020_codeql_4.py,"```json
+[
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-022_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-022_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-706: Use of Incorrectly-Resolved Name or Reference"",
+        ""line of Code"": 5
+    },
+    {
+        ""label"": ""CWE-400: Uncontrolled Resource Consumption"",
+        ""line of Code"": 5
+    }
+]
+```"
+CWE-022_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-022_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-078_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""8""
+    }
+]
+```"
+CWE-078_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-079_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": ""8, 10, 11""
+    }
+]
+```"
+CWE-079_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""name = request.args.get('name', '')""
+    }
+]
+```"
+CWE-079_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-080_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-089_author_1.py,"```json
+[]```"
+CWE-089_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-89: SQL Injection"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-090_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-90: LDAP Injection"",
+        ""line of Code"": ""12""
+    },
+    {
+        ""label"": ""CWE-90: LDAP Injection"",
+        ""line of Code"": ""13""
+    }
+]
+```"
+CWE-090_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-90: LDAP Injection"",
+        ""line of Code"": ""14""
+    },
+    {
+        ""label"": ""CWE-90: LDAP Injection"",
+        ""line of Code"": ""15""
+    }
+]
+```"
+CWE-094_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": ""5""
+    }
+]
+```"
+CWE-094_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-094_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-095_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": ""4""
+    }
+]
+```"
+CWE-099_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": 9
+    }
+]
+```"
+CWE-113_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-601: Open Redirect"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-113_sonar_2.py,"```json
+[
+    {
+        ""label"": ""CWE-113"",
+        ""line of Code"": ""response.__setitem__('Content-Type', content_type)""
+    }
+]
+```"
+CWE-116_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-116_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-275: Traversal Attack"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-117_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-476: NULL Pointer Dereference"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-209: Information Exposure Through an Error Message"",
+        ""line of Code"": ""8""
+    },
+    {
+        ""label"": ""CWE-703: Improper Check or Handling of Exceptional Conditions"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-117_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-117: Improper Output Neutralization for Logs"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-117_sonar_1.py,"```json
+[]
+```"
+CWE-1204_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-329"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-193_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-125"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-200_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-89: SQL Injection"",
+        ""line of Code"": 10
+    },
+    {
+        ""label"": ""CWE-209: Information Exposure Through an Error Message"",
+        ""line of Code"": 13
+    }
+]
+```"
+CWE-209_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-209"",
+        ""line of Code"": ""return traceback.format_exc()""
+    }
+]
+```"
+CWE-215_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-798: Use of Hard-coded Credentials"",
+        ""line of Code"": ""23""
+    },
+    {
+        ""label"": ""CWE-200: Information Exposure"",
+        ""line of Code"": ""26""
+    },
+    {
+        ""label"": ""CWE-400: Uncontrolled Resource Consumption"",
+        ""line of Code"": ""29""
+    }
+]
+```"
+CWE-215_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-693: Protection Mechanism Failure"",
+        ""line of Code"": ""app.run(debug=True)""
+    }
+]
+```"
+CWE-250_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-252_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-20"",
+        ""line of Code"": 8
+    }
+]
+```"
+CWE-259_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-798: Use of Hard-coded Credentials"",
+        ""line of Code"": 5
+    }
+]
+```"
+CWE-259_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-259: Use of Hard-coded Password"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-269_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""7""
+    },
+    {
+        ""label"": ""CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-283_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-20"",
+        ""line of Code"": ""3""
+    }
+]
+```"
+CWE-284_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-281: Improper Preservation of a Secure State"",
+        ""line of Code"": ""Line 6""
+    },
+    {
+        ""label"": ""CWE-281: Improper Preservation of a Secure State"",
+        ""line of Code"": ""Line 9""
+    }
+]
+```"
+CWE-285_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-259: Use of Hard-coded Password"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-295: Improper Certificate Validation"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-306: Missing Authentication for Critical Function"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-295_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-295: Improper Certificate Validation"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-295_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-327: Use of a Broken or Risky Cryptographic Algorithm"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-295_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-295: Improper Certificate Validation"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-297_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-295: Improper Certificate Validation"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-297_sonar_2.py,"```json
+[
+    {
+        ""label"": ""CWE-506: Embedded Malicious Code"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-297_sonar_3.py,"```json
+[
+    {
+        ""label"": ""CWE-295: Improper Certificate Validation"",
+        ""line of Code"": 8
+    }
+]
+```"
+CWE-297_sonar_4.py,"```json
+[
+    {
+        ""label"": ""CWE-297: Improper Validation of Certificate with Host Mismatch"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-306_pearce_1.py,"```json
+[
+    {
+        ""label"": ""CWE-798"",
+        ""line of Code"": ""15""
+    },
+    {
+        ""label"": ""CWE-601"",
+        ""line of Code"": ""37""
+    }
+]
+```"
+CWE-312_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-200: Information Exposure"",
+        ""line of Code"": 9
+    },
+    {
+        ""label"": ""CWE-522: Insufficiently Protected Credentials"",
+        ""line of Code"": 10
+    }
+]
+```"
+CWE-319_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-798: Use of Hard-coded Credentials"",
+        ""line of Code"": ""5""
+    },
+    {
+        ""label"": ""CWE-522: Insufficiently Protected Credentials"",
+        ""line of Code"": ""5""
+    }
+]
+```"
+CWE-319_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-798: Use of Hard-coded Credentials"",
+        ""line of Code"": ""5""
+    }
+]
+```"
+CWE-321_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-327"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-326_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-326"",
+        ""line of Code"": ""8""
+    }
+]
+```"
+CWE-326_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-326: Inadequate Encryption Strength"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-327_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-326"",
+        ""line of Code"": 6
+    },
+    {
+        ""label"": ""CWE-329"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-327_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-295: Improper Certificate Validation"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-327_codeql_3.py,"```json
+[
+    {
+        ""label"": ""CWE-327"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-327_codeql_4.py,"```json
+[
+    {
+        ""label"": ""CWE-327"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-329_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-329: Not Using a Random IV with CBC Mode"",
+        ""line of Code"": 9
+    }
+]
+```"
+CWE-330_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-338: Use of Insufficiently Random Values"",
+        ""line of Code"": ""5""
+    }
+]
+```"
+CWE-331_author_1.py,"```json
+[]
+```"
+CWE-339_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-331"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-347_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-347"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-347_sonar_2.py,"```json
+[
+    {
+        ""label"": ""CWE-347: Improper Verification of Cryptographic Signature"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-347_sonar_3.py,"```json
+[
+    {
+        ""label"": ""CWE-327: Use of a Broken or Risky Cryptographic Algorithm"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-347: Improper Verification of Cryptographic Signature"",
+        ""line of Code"": ""4""
+    }
+]
+```"
+CWE-352_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-352"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-367_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-377_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-377: Insecure Temporary File"",
+        ""line of Code"": ""8""
+    }
+]
+```"
+CWE-379_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-377"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-384_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": 8
+    }
+]
+```"
+CWE-385_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-681: Incorrect Conversion Between Numeric Types"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-400_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": ""9""
+    },
+    {
+        ""label"": ""CWE-20: Improper Input Validation"",
+        ""line of Code"": ""11""
+    }
+]
+```"
+CWE-406_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-770: Allocation of Resources Without Limits or Throttling"",
+        ""line of Code"": ""8""
+    },
+    {
+        ""label"": ""CWE-502: Deserialization of Untrusted Data"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-414_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-667: Improper Locking"",
+        ""line of Code"": 7
+    },
+    {
+        ""label"": ""CWE-20: Improper Input Validation"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-209: Information Exposure Through an Error Message"",
+        ""line of Code"": 12
+    }
+]
+```"
+CWE-425_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": 7
+    }
+]
+```"
+CWE-434_pearce_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": ""9""
+    },
+    {
+        ""label"": ""CWE-434"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-434_pearce_2.py,"```json
+[
+    {
+        ""label"": ""CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')"",
+        ""line of Code"": 12
+    }
+]
+```"
+CWE-454_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-798: Use of Hard-coded Credentials"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-462_mitre_1.py,"```json
+[]
+```"
+CWE-477_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-819: Incorrect Use of Function"",
+        ""line of Code"": 5
+    }
+]
+```"
+CWE-488_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-488: Exposure of Data Element to Wrong Session"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-367: Time-of-check Time-of-use (TOCTOU) Race Condition"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-502_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-502"",
+        ""line of Code"": ""return pickle.dumps(Payload())""
+    }
+]
+```"
+CWE-502_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-502: Deserialization of Untrusted Data"",
+        ""line of Code"": 5
+    }
+]
+```"
+CWE-502_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-502: Deserialization of Untrusted Data"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-502_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-20: Improper Input Validation"",
+        ""line of Code"": 9
+    },
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": 9
+    }
+]
+```"
+CWE-521_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-200"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-521_sonar_2.py,"```json
+[
+    {
+        ""label"": ""CWE-798"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-522_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-327"",
+        ""line of Code"": 16
+    },
+    {
+        ""label"": ""CWE-798"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-522_pearce_1.py,"```json
+[
+    {
+        ""label"": ""CWE-798: Use of Weak Password Hash"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-595_author_1.py,"```json
+[]```"
+CWE-601_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": ""11""
+    }
+]
+```"
+CWE-601_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": ""7""
+    }
+]
+```"
+CWE-601_sonar_2.py,"```json
+[
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-601_sonar_3.py,"```json
+[
+    {
+        ""label"": ""CWE-601"",
+        ""line of Code"": ""8""
+    }
+]
+```"
+CWE-601_sonar_4.py,"```json
+[
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": ""8""
+    }
+]
+```"
+CWE-605_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-665"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-295"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-200"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-611_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-611: Improper Restriction of XML External Entity Reference ('XXE')"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-611_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-611: Improper Restriction of XML External Entity Reference"",
+        ""line of Code"": 9
+    }
+]
+```"
+CWE-611_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-611"",
+        ""line of Code"": ""8""
+    }
+]
+```"
+CWE-611_sonar_2.py,"```json
+[
+    {
+        ""label"": ""CWE-611: Improper Restriction of XML External Entity Reference ('XXE')"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-611_sonar_3.py,"```json
+[
+    {
+        ""label"": ""CWE-611: Improper Restriction of XML External Entity Reference"",
+        ""line of Code"": ""6""
+    }
+]
+```"
+CWE-611_sonar_4.py,"```json
+[
+    {
+        ""label"": ""CWE-611"",
+        ""line of Code"": 10
+    }
+]
+```"
+CWE-641_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')"",
+        ""line of Code"": 10
+    }
+]
+```"
+CWE-643_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-643: Improper Neutralization of Data within XPath Expressions"",
+        ""line of Code"": ""17""
+    }
+]
+```"
+CWE-643_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-643: XPath Injection"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-703_author_1.py,"```json
+[]
+```"
+CWE-703_author_2.py,"```json
+[
+    {
+        ""label"": ""CWE-703: Improper Check or Handling of Exceptional Conditions"",
+        ""line of Code"": 8
+    }
+]
+```"
+CWE-703_author_3.py,"```json
+[
+    {
+        ""label"": ""CWE-20"",
+        ""line of Code"": 5
+    }
+]
+``` "
+CWE-730_author_1.py,"```json
+[]
+```"
+CWE-730_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-20: Improper Input Validation"",
+        ""line of Code"": 8
+    },
+    {
+        ""label"": ""CWE-"
+CWE-730_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-1333: Regular Expression Denial of Service (ReDoS)"",
+        ""line of Code"": 9
+    }
+]
+```"
+CWE-732_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-78: OS Command Injection"",
+        ""line of Code"": ""os.system(\""test.bin\"")""
+    }
+]
+```"
+CWE-759_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-327"",
+        ""line of Code"": 6
+    },
+    {
+        ""label"": ""CWE-759"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-760_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-760"",
+        ""line of Code"": 5
+    }
+]
+```"
+CWE-776_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-611: Improper Restriction of XML External Entity Reference"",
+        ""line of Code"": ""9""
+    }
+]
+```"
+CWE-798_author_1.py,"```json
+[
+    {
+        ""label"": ""CWE-259: Use of Hard-coded Password"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-798_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-200: Exposure of Sensitive Information to an Unauthorized Actor"",
+        ""line of Code"": 7
+    },
+    {
+        ""label"": ""CWE-601: URL Redirection to Untrusted Site ('Open Redirect')"",
+        ""line of Code"": 9
+    }
+]
+```"
+CWE-827_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-611: Improper Restriction of XML External Entity Reference"",
+        ""line of Code"": 6
+    }
+]
+```"
+CWE-835_author_1.py,"```json
+[]
+```"
+CWE-841_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-285: Improper Authorization"",
+        ""line of Code"": ""14""
+    }
+]
+```"
+CWE-918_codeql_1.py,"```json
+[
+    {
+        ""label"": ""CWE-918: Server-Side Request Forgery (SSRF)"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+CWE-918_codeql_2.py,"```json
+[
+    {
+        ""label"": ""CWE-918: Server-Side Request Forgery (SSRF)"",
+        ""line of Code"": 10
+    }
+]
+```"
+CWE-941_mitre_1.py,"```json
+[
+    {
+        ""label"": ""CWE-93: Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-121: Stack-based Buffer Overflow"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-131: Incorrect Calculation of Buffer Size"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-209: Information Exposure Through an Error Message"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-400: Uncontrolled Resource Consumption ('Resource Exhaustion')"",
+        ""line of Code"": ""unknown""
+    },
+    {
+        ""label"": ""CWE-787: Out-of-bounds Write"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+CWE-943_sonar_1.py,"```json
+[
+    {
+        ""label"": ""CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')"",
+        ""line of Code"": ""10""
+    }
+]
+```"

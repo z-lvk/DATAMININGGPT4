@@ -1,0 +1,11 @@
+,Filename,SAST,Detected 
+0,django_XSS.py,None,None 
+1,ensure_saved_scope.py,"25(CWE-489),25(CWE-94)",None 
+2,inter_command_injection_2.py,"22(CWE-78),22(CWE-78),22(CWE-78),39(CWE-489),1(CWE-78),22(CWE-78),31(CWE-78),39(CWE-94)","15(CWE-78),27(CWE-78)"
+3,inter_command_injection.py,"15(CWE-78),38(CWE-489),1(CWE-78),15(CWE-78),30(CWE-78),38(CWE-94)","14(CWE-78),27(CWE-78),34(CWE-78)"
+4,list_append.py,13(CWE-78),10(CWE-78)
+5,multi_chain.py,"16(CWE-78),16(CWE-78),16(CWE-78),1(CWE-78),16(CWE-78)",14(CWE-78)
+6,render_ids.py,"17(CWE-489),17(CWE-94)",9(CWE-94)
+7,tainted_arg_normal_function.py,12(CWE-78),13(CWE-78)
+8,XSS_assign_to_other_var.py,"11(CWE-79),15(CWE-489),15(CWE-94)",9(CWE-79)
+9,yield.py,"16(CWE-78),21(CWE-489),1(CWE-78),16(CWE-78),21(CWE-94)",13(CWE-78)
