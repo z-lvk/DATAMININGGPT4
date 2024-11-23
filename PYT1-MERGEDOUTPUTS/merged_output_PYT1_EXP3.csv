@@ -1,0 +1,17 @@
+Filename,SAST,Detected 
+command_injection.py,"13(CWE-094),9(CWE-79),13(CWE-489),11(CWE-79)","15(CWE-489),23(CWE-489)"
+path_traversal.py,"22(CWE-094),18(CWE-79),22(CWE-489),9(CWE-79)",10(CWE-94)
+path_traversal_sanitised.py,"16(CWE-338),21(CWE-094),16(CWE-614),15(CWE-79),21(CWE-489),11(CWE-79)",12(CWE-94)
+path_traversal_sanitised_2.py,"14(CWE-094),10(CWE-79),14(CWE-489),15(CWE-79)",10(CWE-94)
+simple_vulnerability.py,"15(CWE-094),11(CWE-79),15(CWE-489),18(CWE-20),18(CWE-78)",4(CWE-94)
+sqli.py,"16(CWE-094),12(CWE-79),16(CWE-489),11(CWE-20),11(CWE-22),11(CWE-25),11(CWE-99),11(CWE-641)","25(CWE-94),11(CWE-79)"
+XSS.py,"13(CWE-094),9(CWE-79),13(CWE-489),12(CWE-20),12(CWE-22),12(CWE-25),12(CWE-99),12(CWE-641)",7(CWE-79)
+XSS_call.py,"15(CWE-094),11(CWE-79),15(CWE-489)",13(CWE-79)
+XSS_form.py,"16(CWE-094),12(CWE-79),16(CWE-489)",12(CWE-79)
+XSS_no_vuln.py,"20(CWE-094),15(CWE-79),20(CWE-489)",8(CWE-79)
+XSS_reassign.py,"2(CWE-78),18(CWE-78),27(CWE-78),27(CWE-78),35(CWE-094),18(CWE-78),18(CWE-78),18(CWE-78),35(CWE-489)",10(CWE-489)
+XSS_sanitised.py,"15(CWE-094),15(CWE-489)",None
+XSS_url.py,"15(CWE-094),15(CWE-489)",7(CWE-94)
+XSS_variable_assign.py,"15(CWE-094),15(CWE-489)",10(CWE-489)
+XSS_variable_assign_no_vuln.py,"4(CWE-95),4(CWE-95)",None
+XSS_variable_multiple_assign.py,"42(CWE-094),26(CWE-89),27(CWE-89),42(CWE-489)",None

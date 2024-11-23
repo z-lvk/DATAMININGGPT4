@@ -1,0 +1,130 @@
+filename,response
+command_injection.py,"```json
+[
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""14""
+    },
+    {
+        ""label"": ""CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')"",
+        ""line of Code"": ""22""
+    }
+]
+```"
+path_traversal.py,"```json
+[
+    {
+        ""label"": ""CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')"",
+        ""line of Code"": 10
+    }
+]
+```"
+path_traversal_sanitised.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": ""12""
+    }
+]
+```"
+path_traversal_sanitised_2.py,"```json
+[
+    {
+        ""label"": ""CWE-22"",
+        ""line of Code"": ""8-11""
+    }
+]
+```"
+simple_vulnerability.py,"```json
+[
+    {
+        ""label"": ""CWE-94: Improper Control of Generation of Code ('Code Injection')"",
+        ""line of Code"": ""line 4""
+    }
+]
+```"
+sqli.py,"```json
+[
+    {
+        ""label"": ""CWE-89: SQL Injection"",
+        ""line of Code"": ""db.engine.execute(param)""
+    },
+    {
+        ""label"": ""CWE-89: SQL Injection"",
+        ""line of Code"": ""session.query(User).filter(\""username={}\"".format(param))""
+    }
+]
+```"
+XSS.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": 7
+    }
+]
+```"
+XSS_call.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""13""
+    },
+    {
+        ""label"": ""unknown"",
+        ""line of Code"": ""unknown""
+    }
+]
+```"
+XSS_form.py,"```json
+[
+    {
+        ""label"": ""CWE-79: Improper Neutralization of Input During Web Page Generation (Cross-site Scripting)"",
+        ""line of Code"": 13
+    }
+]
+```"
+XSS_no_vuln.py,"```json
+[]
+```"
+XSS_reassign.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": 8
+    },
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": 11
+    }
+]
+```"
+XSS_sanitised.py,"```json
+[]
+```"
+XSS_url.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": 8
+    }
+]
+```"
+XSS_variable_assign.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""10""
+    }
+]
+```"
+XSS_variable_assign_no_vuln.py,"```json
+[]
+```"
+XSS_variable_multiple_assign.py,"```json
+[
+    {
+        ""label"": ""CWE-79"",
+        ""line of Code"": ""10""
+    }
+]
+```"

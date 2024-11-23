@@ -1,0 +1,17 @@
+Filename,Vulline,Detected 
+command_injection.py,"18(CWE-78),27(CWE-78),16(CWE-78),35(CWE-489),4(CWE-15)","14(CWE-78),22(CWE-78)"
+path_traversal.py,"11(CWE-22),15(CWE-489),4(CWE-15)",10(CWE-22)
+path_traversal_sanitised.py,"12(CWE-22),15(CWE-489),4(CWE-15)",12(CWE-22)
+path_traversal_sanitised_2.py,"12(CWE-22),15(CWE-489),4(CWE-15)","8(CWE-22),12(CWE-22)"
+simple_vulnerability.py,"2(CWE-78),4(CWE-78)",4(CWE-94)
+sqli.py,"26(CWE-89),33(CWE-89),42(CWE-489),6(CWE-15)","26(CWE-89),36(CWE-89)"
+XSS.py,"6(CWE-79),9(CWE-79),13(CWE-489),2(CWE-15)",6(CWE-79)
+XSS_call.py,"14(CWE-79),18(CWE-79),22(CWE-489),2(CWE-15)",14(CWE-79)
+XSS_form.py,"14(CWE-79),15(CWE-79),14(CWE-489),21(CWE-489),4(CWE-15),16(CWE-295),16(CWE-1004),16(CWE-614)",14(CWE-79)
+XSS_no_vuln.py,14(CWE-489),None
+XSS_reassign.py,"6(CWE-79),11(CWE-79),15(CWE-489),2(CWE-15)","8(CWE-79),11(CWE-79)"
+XSS_sanitised.py,"7(CWE-79),12(CWE-79),16(CWE-489),3(CWE-15)",None
+XSS_url.py,"6(CWE-79),9(CWE-79),13(CWE-489),2(CWE-15)",9(CWE-79)
+XSS_variable_assign.py,"6(CWE-79),11(CWE-79),15(CWE-489),2(CWE-15)",11(CWE-79)
+XSS_variable_assign_no_vuln.py,16(CWE-489),None
+XSS_variable_multiple_assign.py,"6(CWE-79),15(CWE-79),20(CWE-489),2(CWE-15)",10(CWE-79)
